@@ -59,7 +59,15 @@ JSP Server Manager is a self-contained server administration tool that runs on a
 
 ## Screenshots
 
+![](./screenshots/screen-1.webp)
 
+![](./screenshots/screen-2.webp)
+
+![](./screenshots/screen-3.webp)
+
+![](./screenshots/screen-4.webp)
+
+![](./screenshots/screen-5.webp)
 
 ## Installation
 
